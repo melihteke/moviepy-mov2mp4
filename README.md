@@ -1,6 +1,10 @@
 # MOV to MP4 Converter
 A simple Python script to convert .mov files to .mp4 format using the moviepy library. The script ensures efficient video encoding with audio support by leveraging ffmpeg.
 
+I do screen recording on my MacBook, which records videos in MOV format. These files take up a lot of space. Therefore, I created this script with the help of GitHub Copilot. Now, I can easily convert my MOV files to MP4 without using any third-party apps or websites.
+
+
+
 ## Installation
 ### Prerequisites
 ffmpeg: Required for video processing.
